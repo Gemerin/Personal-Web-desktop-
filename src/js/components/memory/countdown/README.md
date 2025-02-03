@@ -22,7 +22,7 @@ startTimer(): Starts the timer. Sets up an interval that calls the updateTimer m
 stopTimer(): Stops the timer. Clears the interval set by startTimer.
 
 Author
-Saskia Heinemann sh224wg@student.lnu.se
+Eva Heinemann sh224wg@student.lnu.se
 
 Version
 1.1.0
