@@ -1,0 +1,37 @@
+body {
+	background-image: url(../Images/wallp.jpg);
+	background-repeat: no-repeat;
+	background-size: cover ;
+	background-attachment: fixed ;
+	margin: 0;
+}
+
+.dock{
+	position: fixed;
+	bottom: 0;
+	margin: 0;
+	width: 100%;
+	display: flex;
+	justify-content: felx-start;
+	background-color: rgba(78, 80, 99, 0.464);
+	border-radius: 5px;
+}
+
+.dock-item{
+	margin: 10px;
+	transition: transform 0.3s ease;
+}
+
+.dock-item:hover {
+	transform: scale(0.9);
+	cursor: pointer;
+}
+
+.dock-item:active {
+	transform: scale(0.8);
+}
+
+.dock-item img{
+	width: 50px;
+}
+
