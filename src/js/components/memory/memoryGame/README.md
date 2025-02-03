@@ -55,7 +55,7 @@ The memory game component dispatches several custom events that you can listen f
 
 
 Author
-Saskia Heinemann sh224wg@student.lnu.se
+Eva Heinemann sh224wg@student.lnu.se
 
 Version
 1.1.0
