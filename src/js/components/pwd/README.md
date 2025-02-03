@@ -39,7 +39,7 @@ closeWindow(windowElement): - Closes the specified window element and removes it
 - this.highestZIndex: A number that keeps track of the highest z-index value among the windows. It's initialized as 0 in the constructor.
 
 Author
-Saskia Heinemann sh224wg@student.lnu.se
+Eva Heinemann sh224wg@student.lnu.se
 
 Version
 1.1.0
