@@ -16,7 +16,7 @@ Dynamic fill: The color fill starts from the point where you clicked and spreads
 Custom element: The module is implemented as a custom HTML element, so you can use it just like any other HTML tag.
 
 Author
-Saskia Heinemannn sh224wg@student.lnu.se
+Eva Heinemann
 
 Version
 1.0.0
