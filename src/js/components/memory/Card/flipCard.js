@@ -1,7 +1,7 @@
 /**
  * The main script file of the component for the flippable card.
  *
- * @author // TODO: Saskia Heinemannn <sh224wg@student.lnu.se>
+ * @author Eva Heinemann
  * @version 1.0.0
  */
 const cardTemplate = document.createElement('template')
