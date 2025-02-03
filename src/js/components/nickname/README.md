@@ -28,7 +28,7 @@ createForm() - Creates a form with a submit button.
 - enterChat event fired when submit button is clicked
 
 Author
-Saskia Heinemann sh224wg@student.lnu.se
+Eva Heinemann sh224wg@student.lnu.se
 
 Version
 1.1.0
