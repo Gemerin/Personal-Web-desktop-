@@ -51,7 +51,7 @@ disconnectedCallback(): - Cleans up when the element is disconnected from the DO
 - onclose: Triggered when the WebSocket connection is closed.
 
 Author
-Saskia Heinemann sh224wg@student.lnu.se
+Eva Heinemann sh224wg@student.lnu.se
 
 Version
 1.1.0
