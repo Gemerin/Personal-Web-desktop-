@@ -24,7 +24,7 @@ visibleSide: A string indicating which side of the card is currently visible ('f
 keydown: Handles keyboard navigation for a grid of cards. The method responds to the 'Enter', ' ', 'ArrowUp', 'ArrowDown', 'ArrowRight', and 'ArrowLeft' keys. 'Enter' and ' ' flip the card. The arrow keys move the focus to the card in the corresponding direction in the grid.
 
 Author
-Saskia Heinemannn sh224wg@student.lnu.se
+Eva Heinemannn sh224wg@student.lnu.se
 
 Version
 1.0.0
