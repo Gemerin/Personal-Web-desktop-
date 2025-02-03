@@ -1,7 +1,7 @@
 /**
  * The color generator module.
  *
- * @author // TODO: Saskia Heinemannn <sh224wg@student.lnu.se>
+ * @author Eva Heinemann
  * @version 1.0.0
  */
 const colorTemplate = document.createElement('template')
