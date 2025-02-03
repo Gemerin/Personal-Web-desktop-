@@ -1,7 +1,7 @@
 /**
  * Memory Game web component module.
  *
- * @author // Saskia Heinemann <sh224wg@student.lnu.se>
+ * @author // Eva Heinemann <sh224wg@student.lnu.se>
  * @version 1.1.0
  */
 import '../Card/index.js'
